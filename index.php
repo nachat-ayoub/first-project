@@ -19,7 +19,7 @@
 			} else {
 				// Passed
 				// Recipient Email
-				$toEmail = 'geraldeayson@gmail.com';
+				$toEmail = 'venomx2020x@gmail.com';
 				$subject = 'Contact Request From '.$name;
 				$body = '<h2>Contact Request</h2>
 						<h4>Name</h4><p>'.$name.'</p>
